@@ -1,0 +1,14 @@
+html {
+	background: black;
+	padding: 2rem;
+}
+
+a {
+	display: block;
+	padding-top: 2rem;
+	color: #2d2d2d;
+}
+
+.hidden {
+  display: none;
+}
